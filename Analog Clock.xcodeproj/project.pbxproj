@@ -11,6 +11,7 @@
 		6AA8F9E5251522D3000116B1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AA8F9E4251522D3000116B1 /* ContentView.swift */; };
 		6AA8F9E7251522D4000116B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AA8F9E6251522D4000116B1 /* Assets.xcassets */; };
 		6AA8F9EA251522D4000116B1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AA8F9E9251522D4000116B1 /* Preview Assets.xcassets */; };
+		6AA8F9F2251522FA000116B1 /* ClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AA8F9F1251522FA000116B1 /* ClockView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		6AA8F9E6251522D4000116B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6AA8F9E9251522D4000116B1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6AA8F9EB251522D4000116B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6AA8F9F1251522FA000116B1 /* ClockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClockView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				6AA8F9E2251522D3000116B1 /* Analog_ClockApp.swift */,
 				6AA8F9E4251522D3000116B1 /* ContentView.swift */,
+				6AA8F9F1251522FA000116B1 /* ClockView.swift */,
 				6AA8F9E6251522D4000116B1 /* Assets.xcassets */,
 				6AA8F9EB251522D4000116B1 /* Info.plist */,
 				6AA8F9E8251522D4000116B1 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6AA8F9E5251522D3000116B1 /* ContentView.swift in Sources */,
+				6AA8F9F2251522FA000116B1 /* ClockView.swift in Sources */,
 				6AA8F9E3251522D3000116B1 /* Analog_ClockApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
